@@ -21,5 +21,4 @@ The application uses the `tabulate` library to print out all matching recommenda
 - **`test_project.py`**: The unit testing file running on `pytest` to make sure our functions, input criteria validation, and error management loops work flawlessly without crashing.
 - **`requirements.txt`**: A text file listing the external library dependency (`tabulate`) needed to display the output grids.
 - **`README.md`**: This clear guide document explaining the project layout and user instructions.
--
--
+
